@@ -1,0 +1,17 @@
+{
+    "window_title": "Administrador de Tareas",
+    "task_entry_label": "Ingresar Nueva Tarea para hoy",
+    "add_task_button": "Añadir Tarea",
+    "obligatory_label": "Tareas Obligatorias - (mañana hay consecuencias)",
+    "optional_label": "Tareas No Obligatorias - (mañana No hay consecuencias)",
+    "warning_no_task": "Por favor, ingrese una tarea.",
+    "warning_no_category": "Por favor, seleccione una categoría válida.",
+    "warning_max_tasks": "No puedes agregar más de {max_tasks} tareas {category}, foco!!",
+    "mark_completed_button": "Marcar Completado",
+    "remove_completed_button": "Retirar Completado",
+    "delete_task_button": "Eliminar Tarea",
+    "language_settings_label": "Configuración de Idioma",
+    "language_option_english": "Inglés",
+    "language_option_spanish": "Español",
+    "completed_label": "Completado" 
+}

@@ -1,0 +1,17 @@
+{
+    "window_title": "Task Manager",
+    "task_entry_label": "Enter New Task for Today",
+    "add_task_button": "Add Task",
+    "obligatory_label": "Mandatory Tasks - (tomorrow there are consequences)",
+    "optional_label": "Non-Mandatory Tasks - (tomorrow there are no consequences)",
+    "warning_no_task": "Please enter a task.",
+    "warning_no_category": "Please select a valid category.",
+    "warning_max_tasks": "You cannot add more than {max_tasks} {category} tasks, focus!!",
+    "mark_completed_button": "Mark Completed",
+    "remove_completed_button": "Remove Completed",
+    "delete_task_button": "Delete Task",
+    "language_settings_label": "Language Settings",
+    "language_option_english": "English",
+    "language_option_spanish": "Spanish",
+    "completed_label": "Completed"
+}
